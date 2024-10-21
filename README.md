@@ -111,7 +111,8 @@ ShopSmart integrates with a variety of applications to enhance your shopping exp
 
 ---
 **Footnotes**
-- For more tips on creating a budget-friendly shopping list, visit Budgeting 101.
+- For more information on budgeting, check out [Budgeting 101](https://financialaid.richmond.edu/financial-wellness/budgeting.html).
+.
 
 
 ---
