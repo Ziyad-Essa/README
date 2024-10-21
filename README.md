@@ -1,4 +1,4 @@
-# ShopSmart - Smart Shopping Redefined
+# ShopSmart 
 
 **ShopSmart** is a user-friendly shopping assistant that helps users create and manage grocery lists, compare prices, and track spending. Designed to simplify the shopping experience, ShopSmart allows users to plan their shopping trips, stay within budget, and find the best deals.
 
