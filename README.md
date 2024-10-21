@@ -117,7 +117,7 @@ ShopSmart integrates with a variety of applications to enhance your shopping exp
 ---
 **Image**
 
-![Alt text](https://img.freepik.com/free-vector/app-learn-languages_23-2148605710.jpg)
+![Alt text](https://img.freepik.com/free-vector/online-grocery-store-app-template_23-2150208515.jpg)
 
 
 
